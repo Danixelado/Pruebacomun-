@@ -1,2 +1,6 @@
 1.- Tener manos 
+<<<<<<< HEAD
 2.- Senyalar la nariz
+=======
+2.- Tener moquete
+>>>>>>> a6213cad761356bc4d0760116bf0cbd186f0e681
