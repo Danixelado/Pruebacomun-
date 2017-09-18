@@ -1,3 +1,11 @@
 1.- Tener manos 
+<<<<<<< HEAD
 2.- Tener moquete
 3.-Meter el dedo índice en la nariz
+=======
+<<<<<<< HEAD
+2.- Senyalar la nariz
+=======
+2.- Tener moquete
+>>>>>>> a6213cad761356bc4d0760116bf0cbd186f0e681
+>>>>>>> 44e95dd4955a8599b20be8141cdbfc85bfd7cc43
